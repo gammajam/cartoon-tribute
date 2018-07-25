@@ -1,0 +1,83 @@
+header{
+	background-color: olive;
+	padding: 40px;/*you can do 40px 20px if you want top and bottom to be */
+	text-align: center;
+}
+
+h1{
+	font-size:50px;
+	color:black;
+	font-family: Helvetica;
+}
+
+h2{
+	text-transform: uppercase;
+	font-family:Helvetica;
+}
+
+header img{
+	
+	border: 10px solid hotpink;
+	width: 350px;
+	border-radius: 200px;
+}
+
+p, li {
+	font-family: monospace;
+	font-size:16px;
+}
+
+ul {
+	list-style: none;
+	padding:0;
+	margin:0;  
+}
+
+a{
+	color:red;
+	text-decoration: none; 
+}
+
+a:hover {
+	text-transform: uppercase;
+	background-color: yellow;
+}
+
+.polaroid {
+	background-color: hotpink;
+	border: 10px dashed yellow;
+	text-align: center;
+
+}
+
+footer {
+	margin-top: 20px;
+	padding: 40px 20px;
+	background-color: olive;
+}
+
+footer ul {
+	text-align: center;
+}
+
+footer ul li{
+	display:inline-block;
+	margin:0px 5px;
+}
+
+footer a {
+	color:lightpink;
+}
+
+footer a:hover {
+	text-transform: uppercase;
+	background-color: black;
+}
+
+
+	
+    
+    
+
+
+

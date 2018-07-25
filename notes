@@ -1,0 +1,26 @@
+
+
+css has weightings
+
+ID has bigger weighting than class and tag.
+ID is almost like a class, cept it can only be on one element. 
+ID "#first"
+
+an inline style on a style attribute takes more weight than an ID
+
+class ".small"
+
+tag name has smaller weighting than class name
+
+span inherits its parents container/boxes styling
+
+make all spans italic.
+
+
+make all spans in all h2 have strike thru.
+        h2 span{
+        font-style:line-through;
+            }
+            
+href means where the heck is it?!
+https://coachmcgirk.github.io/cartoon-coach/stylish.html link to share with world!
